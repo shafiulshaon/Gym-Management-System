@@ -1,0 +1,10 @@
+Import the Following group8F Database.
+Command Javac *.java
+java Start
+
+ 
+
+	UserId 	Password  Status 	Validity
+	1001 	1234 	  Admin 	Valid
+	1003 	1234 	  Member   	Valid
+	1002 	1234 	  Instructor 	Valid
